@@ -62,3 +62,13 @@ Contribute code to the relevant app repo, not the community repo.
    ```bash
    git clone git@github.com:your-username/arctyk-itsm.git
    cd arctyk-itsm
+3. Create virtual environment:
+    ```bash
+     py -m venv .venv
+     .\.venv\Scripts\activate
+4. Install dependencies:
+    ```bash
+      pip install -r requirements.txt
+5. Run tests:
+    ```bash
+      pytest
