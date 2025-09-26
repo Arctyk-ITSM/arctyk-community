@@ -1,6 +1,6 @@
 # Contributing to Arctyk ITSM
 
-🎉 Thank you for your interest in contributing to **Arctyk ITSM**!  
+Thank you for your interest in contributing to **Arctyk ITSM**!  
 We welcome all contributions, whether it’s code, documentation, design, or ideas. This guide will help you get started.
 
 ---
@@ -49,7 +49,8 @@ Use [Discussions](https://github.com/Arctyk-ITSM/community/discussions) for:
 ## 💻 Code Contributions
 We follow a modular approach:
 - **arctyk-itsm** → full ITSM platform  
-- **arctyk-tickets** → core tickets module  
+- **arctyk-tickets** → core tickets module
+- **arctyk-inventory** → full asset inventory tracking system  
 - Future apps (inventory, reports, etc.) will live in their own repos  
 
 Contribute code to the relevant app repo, not the community repo.
