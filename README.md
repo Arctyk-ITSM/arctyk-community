@@ -65,7 +65,7 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/) to e
 ---
 
 ## 📢 Stay Connected
-- 🌐 Website: *coming soon*
+- 🌐 Website: [arctyk.ca](https://arctyk.ca)
 - 🐙 GitHub Org: [Arctyk-ITSM](https://github.com/Arctyk-ITSM)
 - 💬 Discussions: [Start here](https://github.com/Arctyk-ITSM/community/discussions)
 
